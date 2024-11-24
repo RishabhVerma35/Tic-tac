@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.TicTac{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    grid-gap: 2px;
+    align-items: center;
+ 
+}
+.heading{
+    text-align: center;
+}
+.grid-item{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    cursor: pointer;
+    font-size: 2rem;
+}
+.grid-item:hover{
+    background-color: pink;
+
+}
+.restart{
+    display: flex;
+    text-align: center;
+    font-weight: bolder;
+    
+    margin-top: 5px;
+    justify-content: center;
+}
