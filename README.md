@@ -1,4 +1,5 @@
 # Tic-Tac-Toe Game
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/28aa9f3d-138d-422d-a021-d665dd097199">
 
 This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows you to play against the computer, where the computer uses a basic algorithm to try and make you lose. It's a great project for practicing JavaScript skills, especially with DOM manipulation and event handling.
 
